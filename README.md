@@ -8,11 +8,7 @@
 
 [Data Sources](#data-sources)
 
-[Tools Used](#tools-used)
-
-[Data Preparation](#data-preparation)
-
-[Data Modeling](#data-modeling)
+[Tools Used](#tools-used))
 
 [Data Analysis](#data-analysis)
 
@@ -58,3 +54,6 @@ Weekdays Name =TEXT([@[transaction_date]],"ddd")
 ### Visualizations
 
 _______
+
+
+
