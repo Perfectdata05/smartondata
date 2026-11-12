@@ -53,7 +53,23 @@ Weekdays Name =TEXT([@[transaction_date]],"ddd")
 
 ### Visualizations
 
+______
+
+
+<img width="1436" height="747" alt="excelcoffee" src="https://github.com/user-attachments/assets/5d08db1a-9e6c-4f20-9f4b-8b3105b258f0" />
+
 _______
 
 
+_______
 
+<img width="633" height="227" alt="coffeeshop" src="https://github.com/user-attachments/assets/b77134bf-f41b-4d65-89e0-b198a09a21c3" />
+
+____
+
+______
+
+
+<img width="900" height="350" alt="coffeesales" src="https://github.com/user-attachments/assets/0bd9428a-7fe9-4743-8803-49d2df18843d" />
+
+______
